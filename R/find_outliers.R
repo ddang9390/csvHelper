@@ -39,4 +39,3 @@ find_outliers <- function(data) {
   return(outlier_report)
 }
 
-find_outliers(airquality)
